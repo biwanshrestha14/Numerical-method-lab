@@ -22,7 +22,7 @@ float x0=0, y0=0, z0=0, x1, y1, z1, e1, e2, e3, e; //declaring variable with ini
 int count=1;
 printf("Enter tolerable error:\n");
 scanf("%f", &e);
-printf("\nCount\tx\ty\tz\n");
+printf("\nCount\t\tx\t\ty\t\t0.0001z\n");
 do
 {
 /* Calculation */
