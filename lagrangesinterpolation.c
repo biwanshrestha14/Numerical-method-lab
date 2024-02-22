@@ -1,4 +1,4 @@
-/*programme to implement lagrange interpolation*/
+/*programme to implement lagrange interpolation*/ 
 #include <stdio.h>
 double lagrange_interp(double x[], double y[], int n, double xi) {
 double L, P = 1, result = 0;
